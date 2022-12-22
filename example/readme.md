@@ -14,6 +14,6 @@ $ pip install -r requirements.txt
 $ python ./Preprocess/x.py
 $ python ./Preprocess/y.py
 
-#training and inference
+# training and inference
 $ main.py
 ```
